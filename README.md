@@ -1,4 +1,2 @@
 # sudhakar-tf
-terraform practice
-EC2 and VPC Subnets Cretaion
-
+terraform Create VPC,Route table,Subnets,Associate Subnets,IGW
